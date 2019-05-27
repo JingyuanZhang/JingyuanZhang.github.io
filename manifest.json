@@ -1,20 +1,20 @@
 {
-  "name": "pwa-demo",
-  "short_name": "pwa-demo",
-  "icons": [
-    {
-      "src": "./img/icons/android-chrome-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "./img/icons/android-chrome-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#4DBA87"
-}
+    "name": "mars-demo",
+    "short_name": "mars-demo",
+    "icons": [
+      {
+        "src": "./img/icons/mars-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icons/mars-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#FFF",
+    "theme_color": "#4DBA87"
+  }
