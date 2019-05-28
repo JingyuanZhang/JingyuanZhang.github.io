@@ -39,7 +39,7 @@ function cacheFirst(cacheName, request) {
 
     self.__precacheManifest = [
     "img/test.faffc8b5.jpg",
-    "js/app.fb0b720b.js",
+    "js/app.13d22b30.js",
     "css/chunk-vendors.a92bb258.css",
     "js/chunk-vendors.56263bef.js",
     "index.html"
@@ -54,7 +54,7 @@ function cacheFirst(cacheName, request) {
 
 // 生成 manifestName
 
-    self.cacheName = "MARS_PWA_CACHE-test4-1-1-2";
+    self.cacheName = "MARS_PWA_CACHE-test4-1-1-3";
    
 
 // 监听install事件，安装完成后，进行文件缓存
